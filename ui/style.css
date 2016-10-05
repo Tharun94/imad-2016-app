@@ -10,4 +10,7 @@ html{
 #nav-bar ul li{
     display:inline;
     color:white;
+    padding:5px;
+    border:1px solid white;
+    
 }
