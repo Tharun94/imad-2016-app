@@ -4,12 +4,17 @@ body{
     border:0px;
     margin:0px;
 }
+div{
+    display :block;
+    height:auto;
+    width:100%;
+}
 nav{
     display : block;
     border-collapse: collapse;
     text-align:center;
     background-color:orange;
-    width:100%;
+    
     }
 nav a{
     text-decoration:none;
