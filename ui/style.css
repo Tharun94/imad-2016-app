@@ -1,12 +1,15 @@
 body{
     background-color:black;
     color:white;
+    
 }
 nav{
     display : block;
     border-collapse: collapse;
     text-align:center;
     background-color:orange;
+    width:100%;
+    height:auto;
 }
 nav a{
     text-decoration:none;
