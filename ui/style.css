@@ -6,7 +6,7 @@ nav{
     display : block;
     border-collapse: collapse;
     text-align:center;
-    
+    background-color:orange;
 }
 nav a{
     text-decoration:none;
