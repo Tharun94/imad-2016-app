@@ -5,6 +5,26 @@ var path = require('path');
 var app = express();
 app.use(morgan('combined'));
 
+app.get('/home', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'index.html'));
+});
+
+app.get('/blog', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'blog.html'));
+});
+
+app.get('/about', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'about.html'));
+});
+
+app.get('/gallery', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'gallery.html'));
+});
+
+app.get('/contact', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'contact.html'));
+});
+
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
