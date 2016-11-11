@@ -10,7 +10,7 @@ nav{
     text-align:center;
     background-color:orange;
     width:100%;
-    height:auto;
+    height:100px;
 }
 nav a{
     text-decoration:none;
