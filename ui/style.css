@@ -4,7 +4,7 @@ body{
 }
 nav{
     display : block;
-   
+    border-collapse: collapse;
     text-align:center;
     
 }
@@ -13,6 +13,6 @@ nav a{
     color:white;
     border:1px solid white;
     padding:5px;
-    border-collapse: collapse;
+    
     
 }
