@@ -60,5 +60,6 @@ nav a:hover{
     margin-bottom: 25px;
     height: 500px;
     border-radius:8px;
+    box-shadow:1px 1px 1px 1px white;
 
 }
