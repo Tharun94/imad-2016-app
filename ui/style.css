@@ -15,7 +15,7 @@ nav{
     text-align:center;
     background-color:orange;
     padding:10px;
-    
+    font-family:"Lucida Console", Monaco, monospace;
 }
 nav a{
     text-decoration:none;
@@ -28,6 +28,6 @@ nav a{
 nav a:hover{
     background-color:black;
     color:white;
-    text-transform:uppercase;
-    font-family:"Lucida Console", Monaco, monospace;
+    font-weight:bold;
+    
 }
