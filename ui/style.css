@@ -40,6 +40,9 @@ img{
     box-shadow:1px 1px 1px 1px white;
     float:left;
 }
+.profile-pic{
+    float:left;
+}
 .profile-data{
     border:2px solid white;
 }
