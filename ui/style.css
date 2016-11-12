@@ -23,11 +23,9 @@ nav a{
     border:1px solid white;
     padding:5px;
     margin:0;
-    
 }
 nav a:hover{
     background-color:black;
     color:white;
     font-weight:bold;
-    
 }
