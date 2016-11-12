@@ -43,3 +43,7 @@ img{
 .profile-pic{
     float:left;
 }
+.profile-data{
+    margin-left:25px;
+    border:2px solid white;
+}
