@@ -16,7 +16,7 @@ nav{
     border-collapse: collapse;
     text-align:center;
     background-color:orange;
-    
+    width :auto;
     }
 nav a{
     text-decoration:none;
