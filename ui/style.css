@@ -7,16 +7,14 @@ body{
 div{
     display :block;
     height:auto;
-    width:100%;
-    background-color:white;
     
-}
+    }
 nav{
     display : block;
     border-collapse: collapse;
     text-align:center;
     background-color:orange;
-    width :auto;
+   
     }
 nav a{
     text-decoration:none;
