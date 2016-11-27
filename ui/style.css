@@ -11,6 +11,9 @@ div{
     height:auto;
     
 }
+.navImage{
+    float:left;
+  }
 nav{
     display : block;
     border-collapse: collapse;
