@@ -65,11 +65,14 @@ nav a:hover{
 
 }
 .socialMedia{
-    float:right;
+  float :right;
+  
     
 }
 .socialMedia img{
     width:10px;
     height:10px;
     border:2px solid black;
+    display:block;
+    
 }
