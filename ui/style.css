@@ -66,7 +66,8 @@ nav a:hover{
 }
 
 .socialMedia img{
-   
+    height:25px auto;
+    width:25px auto;
     display:inline;
     
 }
